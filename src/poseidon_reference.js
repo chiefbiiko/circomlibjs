@@ -1,5 +1,5 @@
 
-import assert from "assert";
+import assert from "./assert";
 import { getCurveFromName }  from "ffjavascript";
 
 import poseidonConstants from "./poseidon_constants.js";
